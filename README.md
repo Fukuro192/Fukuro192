@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fukuro192
 - 👀 I’m interested in Cyber Security and Machine Learning
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently learning Django, Docker and Kubernetes
 - 💞️ I’m looking to collaborate on **Any Projects**
 
 <!---
